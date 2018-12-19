@@ -16,8 +16,8 @@ encoding: "utf-8"
 favicon: favicon.png 
 
 repository: Jingliwh/jingliwh.github.io
-github_url: https://github.com/ityouknow
-cnblog_url: http://www.cnblogs.com/ityouknow
+github_url: https://github.com/Jingliwh
+cnblog_url:无
 url: http://www.ityouknow.com
 enforce_ssl: ityouknow.com
 
